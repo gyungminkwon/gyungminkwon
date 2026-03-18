@@ -1,4 +1,6 @@
-<h1 align="center">Pseudo-Coder</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=FFD43B&center=true&vCenter=true&width=435&height=100&multiline=true&lines=Pythonic+Love!" alt="Typing SVG" />
+</p>
 
 ## Tech Stack
 ### Languages
