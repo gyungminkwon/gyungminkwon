@@ -19,6 +19,6 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyungminkwon&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyungminkwon&v=1&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyungminkwon&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
 </p>
